@@ -1,0 +1,10 @@
+{
+    "public": {
+    },
+
+    "mysql": {
+        "host": "localhost",
+        "user":"root",
+        "password": ""
+    }
+}
